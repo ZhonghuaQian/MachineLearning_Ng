@@ -1,0 +1,2 @@
+# MachineLearning_Ng
+This repository contains the  coding assignment of Andrew Ng's machine learning course in coursera.
